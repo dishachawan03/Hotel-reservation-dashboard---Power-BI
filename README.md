@@ -35,16 +35,16 @@ It provides clear insights that help hotel managers improve occupancy rates, red
 # Dashboard Preview
 
 # Overview Page
-[Overview Dashboard](Dashboard_Overview.png)
+[Overview Dashboard](dashboard_overview.png)
 
 # Revenue Analysis
-[Revenue Dashboard](Dashboard_Revenue.png)
+[Revenue Dashboard](dashboard_revenue.png)
 
 # Customer Insights
-[Customer Dashboard](Dashboard_Customer.png)
+[Customer Dashboard](dashboard_customers.png)
 
 # Cancellation Trends
-[Cancellation dashboard](Dashboard_cancellation.png)
+[Cancellation dashboard](dashboard_cancellation.png)
 
 
 # Dashboard Features
