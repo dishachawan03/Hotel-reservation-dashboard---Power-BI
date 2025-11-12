@@ -24,8 +24,8 @@ It provides clear insights that help hotel managers improve occupancy rates, red
 # Project Files
 | File | Description |
 |------|--------------|
-| `HotelReservationDashboard.pbix` | Power BI dashboard file |
-| `HotelReservationData.xlsx` | Cleaned dataset used for analysis |
+| `Hotel Reservation Dashboard.pbix` | Power BI dashboard file |
+| `Hotel_Booking.csv` | Cleaned dataset used for analysis |
 | `dashboard_overview.png` | Screenshot of the overview dashboard |
 | `dashboard_revenue.png` | Screenshot of the revenue insights dashboard |
 | `dashboard_customers.png` | Screenshot of the customer segmentation dashboard |
